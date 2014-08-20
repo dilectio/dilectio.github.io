@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Dilectio -Something-]]></title>
+  <link href="http://dilectio.github.io/atom.xml" rel="self"/>
+  <link href="http://dilectio.github.io/"/>
+  <updated>2014-08-19T22:13:33-07:00</updated>
+  <id>http://dilectio.github.io/</id>
+  <author>
+    <name><![CDATA[Rachel L]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Here It Is]]></title>
+    <link href="http://dilectio.github.io/blog/2014/08/19/here-it-is/"/>
+    <updated>2014-08-19T22:10:23-07:00</updated>
+    <id>http://dilectio.github.io/blog/2014/08/19/here-it-is</id>
+    <content type="html"><![CDATA[<p>So I&rsquo;ve decided to quit astronomy. I have to find something else to do, and this is a blog that will record my journey along the way. Hopefully it will be adventurous, and hopefully I am not too old for this.</p>
+]]></content>
+  </entry>
+  
+</feed>
